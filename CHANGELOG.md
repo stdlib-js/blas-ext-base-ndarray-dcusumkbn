@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`67cdf3c`](https://github.com/stdlib-js/stdlib/commit/67cdf3cc8be241859493c2da00974d595eef73cb) - **chore:** propagate recent doctest and lint fixes to sibling packages [(#11585)](https://github.com/stdlib-js/stdlib/pull/11585) _(by Philipp Burckhardt)_
 -   [`0873811`](https://github.com/stdlib-js/stdlib/commit/0873811a6cdde040bef142386df8f1fe2c64d4df) - **docs:** inline ndarray output in doctests and add missing article [(#11557)](https://github.com/stdlib-js/stdlib/pull/11557) _(by Philipp Burckhardt)_
 -   [`dcdf5e4`](https://github.com/stdlib-js/stdlib/commit/dcdf5e4a20a5168022acae53a5b10cf0bda0b3d9) - **docs:** improve doctests for ndarray instances in `blas/ext/base/ndarray/dcusumkbn` [(#10740)](https://github.com/stdlib-js/stdlib/pull/10740) _(by Aniket Sonawane)_
 -   [`70190d9`](https://github.com/stdlib-js/stdlib/commit/70190d95cd081cf661a70f834828a0b93bef5288) - **bench:** refactor to use string interpolation in `blas/ext/base/ndarray/dcusumkbn` [(#10296)](https://github.com/stdlib-js/stdlib/pull/10296) _(by AyushiJain18270)_
