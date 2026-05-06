@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-19)
+## Unreleased (2026-05-06)
 
 <section class="commits">
 
@@ -12,6 +12,9 @@
 
 <details>
 
+-   [`2628663`](https://github.com/stdlib-js/stdlib/commit/26286631e01471db55b3be13e2a21762b5507f7b) - **chore:** add missing keywords in `blas/ext/base/ndarray` cusum packages [(#11967)](https://github.com/stdlib-js/stdlib/pull/11967) _(by Philipp Burckhardt)_
+-   [`81d0c40`](https://github.com/stdlib-js/stdlib/commit/81d0c40992d501090684ee80a52170885a8ccc0c) - **docs:** add notes _(by Athan Reines)_
+-   [`3a079cf`](https://github.com/stdlib-js/stdlib/commit/3a079cf104c2078ea8d3e616731e0de63d8882e3) - **chore:** modernize examples and benchmarks _(by Athan Reines)_
 -   [`67cdf3c`](https://github.com/stdlib-js/stdlib/commit/67cdf3cc8be241859493c2da00974d595eef73cb) - **chore:** propagate recent doctest and lint fixes to sibling packages [(#11585)](https://github.com/stdlib-js/stdlib/pull/11585) _(by Philipp Burckhardt)_
 -   [`0873811`](https://github.com/stdlib-js/stdlib/commit/0873811a6cdde040bef142386df8f1fe2c64d4df) - **docs:** inline ndarray output in doctests and add missing article [(#11557)](https://github.com/stdlib-js/stdlib/pull/11557) _(by Philipp Burckhardt)_
 -   [`dcdf5e4`](https://github.com/stdlib-js/stdlib/commit/dcdf5e4a20a5168022acae53a5b10cf0bda0b3d9) - **docs:** improve doctests for ndarray instances in `blas/ext/base/ndarray/dcusumkbn` [(#10740)](https://github.com/stdlib-js/stdlib/pull/10740) _(by Aniket Sonawane)_
@@ -27,9 +30,10 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Aniket Sonawane
+-   Athan Reines
 -   AyushiJain18270
 -   Philipp Burckhardt
 
